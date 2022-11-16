@@ -1,0 +1,37 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_gesture_event" id="NvaL]itOD}a;?sLRE$ns" x="0" y="0"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_leds" id="2?@|`yN}DyRO:m7x,pY/"><field name="LEDS">`
+        . . # . . 
+        . # # . . 
+        . . # . . 
+        . . # . . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="J2j(GncL]nql?fUJyE?P"><field name="LEDS">`
+        # # # . . 
+        . . . # . 
+        . # # . . 
+        # . . . . 
+        # # # # .
+        `</field><next><block type="device_show_leds" id="oRR]A/K(-S~{KE#Ko7?*"><field name="LEDS">`
+        # # # # . 
+        . . . # . 
+        . . # . . 
+        # . . # . 
+        . # # . .
+        `</field><next><block type="device_show_leds" id="h`*ur{;cgH[x,jaOSc!="><field name="LEDS">`
+        . . # # . 
+        . # . # . 
+        # . . # . 
+        # # # # # 
+        . . . # .
+        `</field><next><block type="device_show_leds" id="nh|jJSzQ=NPzd@W6*?2O"><field name="LEDS">`
+        # # # # # 
+        # . . . . 
+        # # # # . 
+        . . . . # 
+        # # # # .
+        `</field><next><block type="device_show_leds" id="@?gXGCr_y%hp:Q_Kh:+z"><field name="LEDS">`
+        . . . # . 
+        . . # . . 
+        . # # # . 
+        # . . . # 
+        . # # # .
+        `</field><next><block type="basic_show_icon" id="We`omIAd?OV8T5ZZRow-"><field name="i">IconNames.SmallSquare</field><next><block type="device_pause" id="4]%g8n8t0!4Gku:MUCWw"><value name="pause"><shadow type="timePicker" id="*zw$bUUg3]nifxsfW^U}"><field name="ms">500</field></shadow></value><next><block type="device_show_number" id="diEeWID_bZ{9T|^jP3sX"><value name="number"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_random" id="E|~RDXkwd,B3mL`a_U)*"><value name="min"><shadow type="math_number" id="*JDHd@h|./7pF?RXMg45"><field name="NUM">1</field></shadow></value><value name="limit"><shadow type="math_number" id="zdO}m!72WwWuwxuEde*r"><field name="NUM">6</field></shadow></value></block></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
